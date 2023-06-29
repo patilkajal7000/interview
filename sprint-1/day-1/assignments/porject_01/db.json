@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "disc": "Learn React",
+      "status": false
+    },
+    {
+      "id": 2,
+      "disc": "Learn Redux",
+      "status": false
+    },
+    {
+      "disc": "ticket one",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
